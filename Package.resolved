@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/jantomec/NumKit.git",
         "state": {
           "branch": null,
-          "revision": "c6a439f6ce80852a0dc5c31ade366dcd686a8253",
-          "version": "0.0.1"
+          "revision": "e4958bc4a23e911ae944d0ea7a1d1407281d4927",
+          "version": "0.0.2"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/jantomec/PlotKit.git",
         "state": {
           "branch": null,
-          "revision": "1dad75eec9cd38d39c1a8c7cac93e397854c702c",
-          "version": "0.0.1"
+          "revision": "063703e2e55fc84cc520a81efd626be067e7056e",
+          "version": "0.0.4"
         }
       }
     ]
